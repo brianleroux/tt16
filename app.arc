@@ -2,7 +2,9 @@
 begin-app
 
 @http
-get /
+/
+  method get
+  src app
 
 @tables
 data

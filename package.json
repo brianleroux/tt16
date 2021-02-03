@@ -3,7 +3,7 @@
     "start": "cross-env NODE_ENV=testing npx sandbox"
   },
   "arc": {
-    "name": "begin-app",
+    "app": "begin-app",
     "http": [
       {"/": {"method": "get", "src": "app"}}
     ]

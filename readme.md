@@ -1,3 +1,1 @@
-working thru configurable file paths feature
- 
-- thx
+working thru configurable file paths feature!

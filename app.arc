@@ -3,7 +3,7 @@ begin-app
 
 @http
 /
-  src app
+  src .
   method get
   
   

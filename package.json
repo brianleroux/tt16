@@ -5,7 +5,7 @@
   "arc": {
     "app": "begin-app",
     "http": [
-      {"/": {"method": "get", "src": "."}}
+      {"/*": {"method": "any", "src": "."}}
     ]
   },
   "devDependencies": {
